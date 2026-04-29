@@ -1,3 +1,5 @@
 streamlit
 pandas
 pytrends
+matplotlib
+jinja2
