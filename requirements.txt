@@ -3,3 +3,4 @@ pandas
 pytrends
 matplotlib
 jinja2
+feedparser
